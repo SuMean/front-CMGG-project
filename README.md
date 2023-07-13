@@ -1,46 +1,140 @@
-# Getting Started with Create React App
+# CMGG
+![LOGO2](https://github.com/blairMoon/front-CMGG-project/assets/120368569/b1bc6841-8371-4768-85a7-ac1d4444b4f6)
+<br />
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### 배포 주소 
 
-## Available Scripts
+https://cmgg.store
+<br />
 
-In the project directory, you can run:
+## ⚙ 기술 스택
 
-### `npm start`
+### 개발 및 협업관리 환경
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)     <img alt="Slack" src ="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### 개발 
 
-### `npm test`
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 주요 라이브러리
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+   ![Recoil](https://img.shields.io/badge/recoil-f26b00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbDpzcGFjZT0icHJlc2VydmUiIHdpZHRoPSIyMDAiIGhlaWdodD0iMzAwIiB2aWV3Qm94PSIwIDAgMjg4IDI4OCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE0NyAyMDZjOCA5IDEwIDE4IDEwIDI5IDAgMyAxIDUgMyA3YTIzIDIzIDAgMCAxLTEyIDQxYy0xMSAxLTE5LTUtMjItMTUtNC05LTEtMTkgNi0yNSA2LTUgNy0xMCA1LTE3LTMtOC04LTEyLTE2LTEzLTE3LTItMjktMTMtMzEtMjktMi0xNyA3LTMxIDIzLTM4IDktMyAyMC0zIDI5LTRsMjktNGM5LTEgMTUtOCAxNS0xNiAwLTctNS0xMy0xMi0xNWwtOS0yYy0xNi00LTI3LTE4LTI3LTM1IDAtNS0xLTktNi0xMy0xMC04LTEwLTI0LTItMzMgMTAtOSAyNS05IDM0IDBzOCAyNS0yIDMzYy03IDUtNiAxMS01IDE4IDIgNyA3IDEyIDE1IDEzIDExIDEgMjEgNiAyOCAxNiAxMyAyMiAwIDQ4LTI3IDUzLTEyIDMtMjYgMy0zOSA0LTUgMS0xMSAxLTE2IDQtNyAzLTExIDktMTAgMTZzNyAxMyAxNSAxNGM5IDEgMTcgNCAyNCAxMXoiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJtMTIyIDEzMy01LTFjLTctNy0xNC0xNC0xOC0yMi01LTctNy0xNi04LTI0LTEtNCAwLTUgNC01aDEyYzUgMiAzIDcgNCAxMSAyIDYgNSAxMSA5IDE2bDE4IDE5IDIgNGMtNiAyLTEyIDEtMTggMnpNMTk3IDIyMGgtMWMtNCAwLTggMS0xMS0xLTQtMi0yLTYtMy0xMC0yLTUtNS0xMS05LTE1bC0xNy0yMGMtMi0xLTMtMi0zLTRsMjEtMiAxIDFjMTMgMTIgMjQgMjQgMjYgNDJ2NWMxIDMtMSA0LTQgNHoiLz48L3N2Zz4=)
+	![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=Chakra-UI&logoColor=white)
+	![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<br />
+<br />
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## 📄 페이지
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+  ### 메인 페이지
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+
+####  ☀ 주요 기능 
+
+ - ###### 신규 강의
+ - ###### 인기순 강의
+ - ###### 베스트 수강후기
+
+ <br/><br/>
+
+ ### 로그인 페이지
+
+
+####  ☀ 주요 기능 
+
+ - ###### ID / PW 기입
+ - ###### ID/PW 유효성 검사
+ - ###### ID, PW 일치 불일치 검증(modal)
+ - ###### 로그인 시 jwt(token)을 이용한 유저인증
+ - ###### 카카오, 네이버 소셜로그인
+ 
+ 
+ <br/><br/>
+
+
+ 
+  ### 회원가입 페이지
+ 
+####  ☀ 주요 기능 
+
+ - ###### User model 기입
+ - ###### 아이디 중복 확인 기능
+ - ###### User model 유효성 검사
+ - ###### Daum api를 이용한 주소찾기
+ 
+ 
+ <br/><br/>
+
+### 마이 페이지
+
+
+####  ☀ 주요 기능  
+
+  - ###### 학습관리 대시보드
+  - ###### 수강중인 강의
+  - ###### 수강 결제,장바구니
+  - ###### 회원정보 수정
+     <br/><br/>
+
+### 전체강의 페이지
+ 
+ 
+
+
+####  ☀ 주요 기능 
+
+ - ###### 강의 검색 
+ - ###### 언어 카테고리
+ - ###### 페이지네이션
+ 
+ 
+ <br/><br/>
+### 상세강의 페이지
+
+
+
+
+####  ☀ 주요 기능 
+
+ - ###### 강의 수강하기
+ - ###### 별점 매기기
+ - ###### 댓글/답글 달기
+
+
+<br/><br/>
+
+
+### 강의영상 페이지
+
+
+
+
+####  ☀ 주요 기능 
+
+ - ###### 영상 재생
+ - ###### 목차
+ - ###### 재생시간 저장 및 저장시간부터 시작
+ -  ###### 진도율 체크
+
+
+<br/><br/>
+
+
+ 
